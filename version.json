@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "releaseDate": "2026-08-03",
+  "mandatory": false,
+  "minimumSupportedVersion": "0.9.0",
+  "releaseNotesUrl": "https://vesperlauncher.com/changelog",
+  "platforms": {
+    "windows": {
+      "url": "https://github.com/your-org/vesper/releases/download/v1.0.0/Vesper-1.0.0-win-x64.exe",
+      "filename": "Vesper-1.0.0-win-x64.exe",
+      "arch": "x64",
+      "size": 78643200,
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    "macos": {
+      "url": "https://github.com/your-org/vesper/releases/download/v1.0.0/Vesper-1.0.0-mac-universal.dmg",
+      "filename": "Vesper-1.0.0-mac-universal.dmg",
+      "arch": "universal",
+      "size": 92274688,
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  },
+  "changelog": "- Unified Modrinth and CurseForge search in a single library view\n- Smart dependency resolution now pins compatible versions across the full tree\n- Instance launches are roughly 40% faster on cold start\n- Added the built-in Discord tab with opt-in Rich Presence\n- Local skin and cape manager with instant preview\n- Fixed a crash when importing .mrpack files that contained optional mods"
+}
