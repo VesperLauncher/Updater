@@ -1,25 +1,39 @@
 {
-  "schemaVersion": 1,
-  "version": "1.0.0",
-  "releaseDate": "2026-08-03",
+  "schemaVersion": 2,
+  "version": "0.0.1-ci",
+  "releaseDate": "2026-08-07",
   "mandatory": false,
   "minimumSupportedVersion": "0.9.0",
-  "releaseNotesUrl": "https://vesperlauncher.com/changelog",
+  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v0.0.1-ci",
   "platforms": {
-    "windows": {
-      "url": "https://github.com/your-org/vesper/releases/download/v1.0.0/Vesper-1.0.0-win-x64.exe",
-      "filename": "Vesper-1.0.0-win-x64.exe",
+    "linux-x64": {
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v0.0.1-ci/VesperLauncher-0.0.1-ci-linux-x64.tar.gz",
+      "filename": "VesperLauncher-0.0.1-ci-linux-x64.tar.gz",
       "arch": "x64",
-      "size": 78643200,
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+      "size": 47848371,
+      "sha256": "cd7c3d3bc8b3bf7063092a5d62e31ec110b994d792e3c729af2e2859e8206dcf"
     },
-    "macos": {
-      "url": "https://github.com/your-org/vesper/releases/download/v1.0.0/Vesper-1.0.0-mac-universal.dmg",
-      "filename": "Vesper-1.0.0-mac-universal.dmg",
-      "arch": "universal",
-      "size": 92274688,
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    "osx-arm64": {
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v0.0.1-ci/VesperLauncher-0.0.1-ci-osx-arm64.zip",
+      "filename": "VesperLauncher-0.0.1-ci-osx-arm64.zip",
+      "arch": "arm64",
+      "size": 47945867,
+      "sha256": "67400fa17307a610761696dfdef96733d879a48f989bf9cc4fd12d8a7e6bf798"
+    },
+    "osx-x64": {
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v0.0.1-ci/VesperLauncher-0.0.1-ci-osx-x64.zip",
+      "filename": "VesperLauncher-0.0.1-ci-osx-x64.zip",
+      "arch": "x64",
+      "size": 50192867,
+      "sha256": "85d526489da78bea291036883a48928a1c6cc577cc090d5a6dd93219a0c674fa"
+    },
+    "win-x64": {
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v0.0.1-ci/VesperLauncher-0.0.1-ci-win-x64.zip",
+      "filename": "VesperLauncher-0.0.1-ci-win-x64.zip",
+      "arch": "x64",
+      "size": 74154750,
+      "sha256": "e7378fd91d1d602db73231c8f69b4f5d277d624008f5f2eb1201e2dd931889ce"
     }
   },
-  "changelog": "- Unified Modrinth and CurseForge search in a single library view\n- Smart dependency resolution now pins compatible versions across the full tree\n- Instance launches are roughly 40% faster on cold start\n- Added the built-in Discord tab with opt-in Rich Presence\n- Local skin and cape manager with instant preview\n- Fixed a crash when importing .mrpack files that contained optional mods"
+  "changelog": "CI smoke test \u2014 please ignore"
 }
