@@ -4,7 +4,36 @@
   "releaseDate": "2026-08-07",
   "mandatory": false,
   "minimumSupportedVersion": "0.9.0",
-  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases",
-  "platforms": {},
-  "changelog": "No public release yet. The release workflow overwrites this file automatically."
+  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.0.0",
+  "platforms": {
+    "linux-x64": {
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.0.0/VesperLauncher-1.0.0-linux-x64.tar.gz",
+      "filename": "VesperLauncher-1.0.0-linux-x64.tar.gz",
+      "arch": "x64",
+      "size": 47848505,
+      "sha256": "795bb03813420cdcbac96e8b9c738d3a21332e0c4b4d0bbe0fa4b92b5beed00a"
+    },
+    "osx-arm64": {
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.0.0/VesperLauncher-1.0.0-osx-arm64.zip",
+      "filename": "VesperLauncher-1.0.0-osx-arm64.zip",
+      "arch": "arm64",
+      "size": 47945806,
+      "sha256": "df30158f368e3f59942199dd0e33190a105801c17798f4fb678c4a5cdd4797ff"
+    },
+    "osx-x64": {
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.0.0/VesperLauncher-1.0.0-osx-x64.zip",
+      "filename": "VesperLauncher-1.0.0-osx-x64.zip",
+      "arch": "x64",
+      "size": 50192794,
+      "sha256": "df8c116c1788cbdf404e4fe307c49a575c7a90eb44038e0da5e34b204bcb4421"
+    },
+    "win-x64": {
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.0.0/VesperLauncher-1.0.0-win-x64.zip",
+      "filename": "VesperLauncher-1.0.0-win-x64.zip",
+      "arch": "x64",
+      "size": 74154709,
+      "sha256": "561254e9f0f9edfb1a462738c11614309f459120ea5a7087564d11aa5271f122"
+    }
+  },
+  "changelog": "Vesper Launcher 1.0.0"
 }
