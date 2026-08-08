@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "version": "1.0.0",
-  "releaseDate": "2026-08-07",
+  "releaseDate": "2026-08-08",
   "mandatory": false,
   "minimumSupportedVersion": "0.9.0",
   "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.0.0",
@@ -10,29 +10,29 @@
       "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.0.0/VesperLauncher-1.0.0-linux-x64.tar.gz",
       "filename": "VesperLauncher-1.0.0-linux-x64.tar.gz",
       "arch": "x64",
-      "size": 47851380,
-      "sha256": "9408b5d338e069f2666900445fcd884263e80250ec465200bcc09551f67e5d42"
+      "size": 47852929,
+      "sha256": "9fdab127c7ddd61989ca0a2986588995fa04bdeb4d9411142ab2115cf8023ab5"
     },
     "osx-arm64": {
       "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.0.0/VesperLauncher-1.0.0-osx-arm64.zip",
       "filename": "VesperLauncher-1.0.0-osx-arm64.zip",
       "arch": "arm64",
-      "size": 47949026,
-      "sha256": "13537b3536a54d7244e7a8586632127389cbb5df6bd5b6b529c519fc62009e75"
+      "size": 47949016,
+      "sha256": "445d3fca05d217546750338b791040eeb9d8d15cb6ae15b72cdca440fab75a06"
     },
     "osx-x64": {
       "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.0.0/VesperLauncher-1.0.0-osx-x64.zip",
       "filename": "VesperLauncher-1.0.0-osx-x64.zip",
       "arch": "x64",
-      "size": 50195993,
-      "sha256": "e3f31c33bae0b14c42864036c73f92112b14e93af514e5d954c08571bd3fc889"
+      "size": 50195994,
+      "sha256": "bda8825017cf31d8f4862bea706e17b388ff69bf3bfee3c37f3744987db562fc"
     },
     "win-x64": {
       "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.0.0/VesperLauncher-1.0.0-win-x64.zip",
       "filename": "VesperLauncher-1.0.0-win-x64.zip",
       "arch": "x64",
-      "size": 74157510,
-      "sha256": "437133510606addfcf5c76065085ed6470f890ca3fd091be8a42259a402eff7f"
+      "size": 48657808,
+      "sha256": "564b69dd060df63f79fa7c11887ae51f7f9050dc4c4b423c2f7fee2dd0ec9c2c"
     }
   },
   "changelog": "Vesper Launcher 1.0.0"
