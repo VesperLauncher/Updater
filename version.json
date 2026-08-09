@@ -1,39 +1,39 @@
 {
   "schemaVersion": 2,
-  "version": "1.0.0",
-  "releaseDate": "2026-08-08",
+  "version": "1.1.0",
+  "releaseDate": "2026-08-09",
   "mandatory": false,
   "minimumSupportedVersion": "0.9.0",
-  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.0.0",
+  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.1.0",
   "platforms": {
     "linux-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.0.0/VesperLauncher-1.0.0-linux-x64.tar.gz",
-      "filename": "VesperLauncher-1.0.0-linux-x64.tar.gz",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.1.0/VesperLauncher-1.1.0-linux-x64.tar.gz",
+      "filename": "VesperLauncher-1.1.0-linux-x64.tar.gz",
       "arch": "x64",
-      "size": 47852929,
-      "sha256": "9fdab127c7ddd61989ca0a2986588995fa04bdeb4d9411142ab2115cf8023ab5"
+      "size": 47872738,
+      "sha256": "d9926a0563d35b9a2bd1ea371f4478499cd642db2f1e225c8f451c90b4d00308"
     },
     "osx-arm64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.0.0/VesperLauncher-1.0.0-osx-arm64.zip",
-      "filename": "VesperLauncher-1.0.0-osx-arm64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.1.0/VesperLauncher-1.1.0-osx-arm64.zip",
+      "filename": "VesperLauncher-1.1.0-osx-arm64.zip",
       "arch": "arm64",
-      "size": 47949016,
-      "sha256": "445d3fca05d217546750338b791040eeb9d8d15cb6ae15b72cdca440fab75a06"
+      "size": 47963856,
+      "sha256": "ec4ac8244d2f81aed22eaa6566f8b6eabc7228c26fba635adc5fe3ba33f8f388"
     },
     "osx-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.0.0/VesperLauncher-1.0.0-osx-x64.zip",
-      "filename": "VesperLauncher-1.0.0-osx-x64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.1.0/VesperLauncher-1.1.0-osx-x64.zip",
+      "filename": "VesperLauncher-1.1.0-osx-x64.zip",
       "arch": "x64",
-      "size": 50195994,
-      "sha256": "bda8825017cf31d8f4862bea706e17b388ff69bf3bfee3c37f3744987db562fc"
+      "size": 50210842,
+      "sha256": "d208a11c4fbf61ea98cc8efa9ca61f423f2ff367f5630efb80991f3d9e60d4f9"
     },
     "win-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.0.0/VesperLauncher-1.0.0-win-x64.zip",
-      "filename": "VesperLauncher-1.0.0-win-x64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.1.0/VesperLauncher-1.1.0-win-x64.zip",
+      "filename": "VesperLauncher-1.1.0-win-x64.zip",
       "arch": "x64",
-      "size": 48657808,
-      "sha256": "564b69dd060df63f79fa7c11887ae51f7f9050dc4c4b423c2f7fee2dd0ec9c2c"
+      "size": 48672926,
+      "sha256": "41e2533771ad7d684688557a6889106ea12f8e6879c07a677b89fbb5ca83d436"
     }
   },
-  "changelog": "Vesper Launcher 1.0.0"
+  "changelog": "Cracked skins now work and apply to every instance automatically. Microsoft accounts can change their skin right from the launcher. Stability improvements. (Vesper now collects anonymous usage stats \u2014 you can turn this off any time in Settings.)"
 }
