@@ -10,29 +10,29 @@
       "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.1.0/VesperLauncher-1.1.0-linux-x64.tar.gz",
       "filename": "VesperLauncher-1.1.0-linux-x64.tar.gz",
       "arch": "x64",
-      "size": 47917596,
-      "sha256": "b3f29c447b2ca0940572d4e878b5e3eb1de4776ac8d1c2f4a58697e7ca3e66ee"
+      "size": 47916739,
+      "sha256": "4a18eaaa1923306cf78689807caca3ad6c446654720d9e9b89875d7d38ae1e24"
     },
     "osx-arm64": {
       "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.1.0/VesperLauncher-1.1.0-osx-arm64.zip",
       "filename": "VesperLauncher-1.1.0-osx-arm64.zip",
       "arch": "arm64",
-      "size": 48005383,
-      "sha256": "6115ef04c2398968eac9a1eb4599d7c21c1ab0da57ce2cdb03a09da3ebd0fd1f"
+      "size": 48005111,
+      "sha256": "e6876e06b70a5a2312dceaab6998f4758ca9f280e61bbcbca6dc908189923e6f"
     },
     "osx-x64": {
       "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.1.0/VesperLauncher-1.1.0-osx-x64.zip",
       "filename": "VesperLauncher-1.1.0-osx-x64.zip",
       "arch": "x64",
-      "size": 50252378,
-      "sha256": "1ba3e8b820e2a9c165aeb42d76af4fb6f7a0c08568ecc0922514fae5f97f507f"
+      "size": 50252076,
+      "sha256": "190e9611900e9b9bc8973e49dbedba02ec26cadb5297a98879dea974648594cf"
     },
     "win-x64": {
       "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.1.0/VesperLauncher-1.1.0-win-x64.zip",
       "filename": "VesperLauncher-1.1.0-win-x64.zip",
       "arch": "x64",
-      "size": 48718125,
-      "sha256": "472ab9ec48c114362499f1e0e2cd484522f407e2af9d9dd26a21806a50c17943"
+      "size": 48717844,
+      "sha256": "ed9175592f3fd3fb5356387aa94073d1f4bde9cad1e5db4b279a505eef8dea89"
     }
   },
   "changelog": "Cracked skins now work and apply to every instance automatically. Microsoft accounts can change their skin right from the launcher. Stability improvements. (Vesper now collects anonymous usage stats \u2014 you can turn this off any time in Settings.)"
