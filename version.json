@@ -1,25 +1,25 @@
 {
   "schemaVersion": 2,
-  "version": "1.2.0",
+  "version": "1.2.1",
   "releaseDate": "2026-08-15",
   "mandatory": false,
   "minimumSupportedVersion": "0.9.0",
-  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.2.0",
+  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.2.1",
   "platforms": {
     "osx-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.2.0/VesperLauncher-1.2.0-osx-x64.zip",
-      "filename": "VesperLauncher-1.2.0-osx-x64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.2.1/VesperLauncher-1.2.1-osx-x64.zip",
+      "filename": "VesperLauncher-1.2.1-osx-x64.zip",
       "arch": "x64",
-      "size": 50259050,
-      "sha256": "25743f9701c2b69fd601a6185c88f9b4e5b380c1fa518e9877581e4a3267d467"
+      "size": 50260448,
+      "sha256": "cbf1b89af2b11c5e5d57ca1c3ac360df6f32e0ce4052a635c207bed1ec392687"
     },
     "osx-arm64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.2.0/VesperLauncher-1.2.0-osx-arm64.zip",
-      "filename": "VesperLauncher-1.2.0-osx-arm64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.2.1/VesperLauncher-1.2.1-osx-arm64.zip",
+      "filename": "VesperLauncher-1.2.1-osx-arm64.zip",
       "arch": "arm64",
-      "size": 48012517,
-      "sha256": "acca4ca8be9248df711f8ebe5537ca7ab3a064dfc82d815724970d4be476151f"
+      "size": 48013944,
+      "sha256": "92649ac6d5680b21ab1d9a409c3e0d25e4484e9c3f427d3f19668856d04409c0"
     }
   },
-  "changelog": "Diagnostic logs so we can help fix issues faster, plus stability improvements. (macOS build; Windows update coming soon.)"
+  "changelog": "Automatic updates \u2014 from now on, updating Vesper is one click (download, install, restart, keeps your stuff). Plus stability improvements. (macOS; Windows coming soon.)"
 }
