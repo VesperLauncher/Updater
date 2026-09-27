@@ -1,25 +1,39 @@
 {
   "schemaVersion": 2,
-  "version": "1.3.0",
-  "releaseDate": "2026-08-15",
+  "version": "1.2.0",
+  "releaseDate": "2026-09-27",
   "mandatory": false,
   "minimumSupportedVersion": "0.9.0",
-  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.3.0",
+  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.2.0",
   "platforms": {
-    "osx-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.3.0/VesperLauncher-1.3.0-osx-x64.zip",
-      "filename": "VesperLauncher-1.3.0-osx-x64.zip",
+    "linux-x64": {
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.2.0/GlitchMC-1.2.0-linux-x64.tar.gz",
+      "filename": "GlitchMC-1.2.0-linux-x64.tar.gz",
       "arch": "x64",
-      "size": 50265588,
-      "sha256": "e1fdb7bae35735ef911bc8d23c2d3af22add5279f9f09bd7ceed1a86c07a04bc"
+      "size": 49513192,
+      "sha256": "56ce99b72e834ca50a5f4000772bee51e91bc91df122db964f6f7defb6d02328"
     },
     "osx-arm64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.3.0/VesperLauncher-1.3.0-osx-arm64.zip",
-      "filename": "VesperLauncher-1.3.0-osx-arm64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.2.0/GlitchMC-1.2.0-osx-arm64.zip",
+      "filename": "GlitchMC-1.2.0-osx-arm64.zip",
       "arch": "arm64",
-      "size": 48019061,
-      "sha256": "c99311e57e11e39773e11df36370aee1c8bd3643240e32c78a15984fecbe757f"
+      "size": 50710031,
+      "sha256": "400555904da37117846a0661ae00f434d2c59e1034ff25be55456ddd06c041df"
+    },
+    "osx-x64": {
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.2.0/GlitchMC-1.2.0-osx-x64.zip",
+      "filename": "GlitchMC-1.2.0-osx-x64.zip",
+      "arch": "x64",
+      "size": 52955058,
+      "sha256": "ef3546dfbcf06479fe5b67d4e7f491e1d2188e1525a10315bcc676d6b8072fc8"
+    },
+    "win-x64": {
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.2.0/GlitchMC-1.2.0-win-x64-setup.exe",
+      "filename": "GlitchMC-1.2.0-win-x64-setup.exe",
+      "arch": "x64",
+      "size": 38862801,
+      "sha256": "fbdf0a6bacc73554db6503934dde39d4aa3b631d0db4876420de69f419fe8c69"
     }
   },
-  "changelog": "Better diagnostics: faster, more reliable Send Logs, and support can now pull your full launcher log history on request to fix issues quickly. Stability improvements. (macOS; Windows coming soon.)"
+  "changelog": "GlitchMC 1.2.0"
 }
