@@ -1,39 +1,39 @@
 {
   "schemaVersion": 2,
-  "version": "1.5.1",
+  "version": "1.5.2",
   "releaseDate": "2026-10-02",
   "mandatory": false,
   "minimumSupportedVersion": "0.9.0",
-  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.5.1",
+  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.5.2",
   "platforms": {
     "linux-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.1/GlitchMC-1.5.1-linux-x64.tar.gz",
-      "filename": "GlitchMC-1.5.1-linux-x64.tar.gz",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.2/GlitchMC-1.5.2-linux-x64.tar.gz",
+      "filename": "GlitchMC-1.5.2-linux-x64.tar.gz",
       "arch": "x64",
-      "size": 49515458,
-      "sha256": "159d0667002a99b38a1af83020091cabcf9bb27708f7e175ed93973b50fb00f5"
+      "size": 49515825,
+      "sha256": "640f9fcfdac77061edaa0d371b018b9d28651e71424186b1910a5c6f76330a70"
     },
     "osx-arm64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.1/GlitchMC-1.5.1-osx-arm64.zip",
-      "filename": "GlitchMC-1.5.1-osx-arm64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.2/GlitchMC-1.5.2-osx-arm64.zip",
+      "filename": "GlitchMC-1.5.2-osx-arm64.zip",
       "arch": "arm64",
-      "size": 50713798,
-      "sha256": "513fe1abdc83af6098875274320c557252d184ef5bfc277486e2899ac9aee488"
+      "size": 50715645,
+      "sha256": "34f9ef0e92cd037fb61c37b5736f903510b38d3cdfbacf5dec19b6d5c015e858"
     },
     "osx-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.1/GlitchMC-1.5.1-osx-x64.zip",
-      "filename": "GlitchMC-1.5.1-osx-x64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.2/GlitchMC-1.5.2-osx-x64.zip",
+      "filename": "GlitchMC-1.5.2-osx-x64.zip",
       "arch": "x64",
-      "size": 52958792,
-      "sha256": "c65804771d93ab5462d56ac872982e9a556c606407e7d0123d132746d88bbee2"
+      "size": 52960601,
+      "sha256": "0d692508821e95c45a4ceefcdcfb8970e8e743a1bef986a98beaf9f278c0f4d2"
     },
     "win-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.1/GlitchMC-1.5.1-win-x64-setup.exe",
-      "filename": "GlitchMC-1.5.1-win-x64-setup.exe",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.2/GlitchMC-1.5.2-win-x64-setup.exe",
+      "filename": "GlitchMC-1.5.2-win-x64-setup.exe",
       "arch": "x64",
-      "size": 38982383,
-      "sha256": "14a1c9b25869593eebb9da965b9582926a508f56ebc823fe3e3033239df0fdf1"
+      "size": 38978003,
+      "sha256": "17090697203cc19005eee93cd390c1ff057a416832766fe9d5ac99a691da921d"
     }
   },
-  "changelog": "GlitchMC 1.5.1"
+  "changelog": "GlitchMC 1.5.2"
 }
