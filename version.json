@@ -1,39 +1,39 @@
 {
   "schemaVersion": 2,
-  "version": "1.5.3",
+  "version": "1.5.4",
   "releaseDate": "2026-10-02",
   "mandatory": false,
   "minimumSupportedVersion": "0.9.0",
-  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.5.3",
+  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.5.4",
   "platforms": {
     "linux-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.3/GlitchMC-1.5.3-linux-x64.tar.gz",
-      "filename": "GlitchMC-1.5.3-linux-x64.tar.gz",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.4/GlitchMC-1.5.4-linux-x64.tar.gz",
+      "filename": "GlitchMC-1.5.4-linux-x64.tar.gz",
       "arch": "x64",
-      "size": 49517895,
-      "sha256": "f06c437a648e19dd2d49b91d0d42769e99d4aaaa95b4b8324ad470a0da201e31"
+      "size": 49522253,
+      "sha256": "3e105ceff3126d9a0d612294867c7fee6e26cffbe1d8a5a49878a6da04eddc5c"
     },
     "osx-arm64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.3/GlitchMC-1.5.3-osx-arm64.zip",
-      "filename": "GlitchMC-1.5.3-osx-arm64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.4/GlitchMC-1.5.4-osx-arm64.zip",
+      "filename": "GlitchMC-1.5.4-osx-arm64.zip",
       "arch": "arm64",
-      "size": 50716888,
-      "sha256": "9402d9839724c25844aba434c98ace02ad5708f72d1789c91759a5caa0939d07"
+      "size": 50718126,
+      "sha256": "19e0f7fad6e74a3600b6922125b19e70ea61ee3ed9708d4efb8b4bf0bf624b58"
     },
     "osx-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.3/GlitchMC-1.5.3-osx-x64.zip",
-      "filename": "GlitchMC-1.5.3-osx-x64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.4/GlitchMC-1.5.4-osx-x64.zip",
+      "filename": "GlitchMC-1.5.4-osx-x64.zip",
       "arch": "x64",
-      "size": 52961767,
-      "sha256": "e1eda48ae5e76b8ac234add56786f06f88b5bfb35d1c6b51f7207d149e7228cc"
+      "size": 52963256,
+      "sha256": "fe061f617feacd2bbfcfea475785c7b458bc083152523ff6f0e0162af97af534"
     },
     "win-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.3/GlitchMC-1.5.3-win-x64-setup.exe",
-      "filename": "GlitchMC-1.5.3-win-x64-setup.exe",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.4/GlitchMC-1.5.4-win-x64-setup.exe",
+      "filename": "GlitchMC-1.5.4-win-x64-setup.exe",
       "arch": "x64",
-      "size": 38974816,
-      "sha256": "b9cb117a77348c18a8766215cef771897ded5a2b4cdd34c82b0f80fcc5d190bc"
+      "size": 38987540,
+      "sha256": "e36aa87ee0e374305475c5b80eb33393c5f4c961f83f98e8d5e3bc879d25e4a0"
     }
   },
-  "changelog": "GlitchMC 1.5.3"
+  "changelog": "GlitchMC 1.5.4 \u2014 instant quit on macOS, fixes a sidebar stuck showing an instance as 'Running' after the game closed, makes the Play button always launch the instance you clicked, and stops old crash reports from re-appearing on the dashboard."
 }
