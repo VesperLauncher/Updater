@@ -1,39 +1,39 @@
 {
   "schemaVersion": 2,
-  "version": "1.5.7",
-  "releaseDate": "2026-10-05",
+  "version": "1.5.8",
+  "releaseDate": "2026-10-09",
   "mandatory": false,
   "minimumSupportedVersion": "0.9.0",
-  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.5.7",
+  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.5.8",
   "platforms": {
     "linux-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.7/GlitchMC-1.5.7-linux-x64.tar.gz",
-      "filename": "GlitchMC-1.5.7-linux-x64.tar.gz",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.8/GlitchMC-1.5.8-linux-x64.tar.gz",
+      "filename": "GlitchMC-1.5.8-linux-x64.tar.gz",
       "arch": "x64",
-      "size": 49545579,
-      "sha256": "31ae34ba564c1593e8b58a613dec2fb9d8687be8d5c3b5cdc4ae839f947ef5cb"
+      "size": 49544129,
+      "sha256": "ecd83fe75e39cf8cd5bf0ac1129286c6e5b71081ffbdd240dbc7165ae1364d5a"
     },
     "osx-arm64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.7/GlitchMC-1.5.7-osx-arm64.zip",
-      "filename": "GlitchMC-1.5.7-osx-arm64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.8/GlitchMC-1.5.8-osx-arm64.zip",
+      "filename": "GlitchMC-1.5.8-osx-arm64.zip",
       "arch": "arm64",
-      "size": 50739629,
-      "sha256": "c5eb30bdb6cd20f2e6f6c7a9581eb2f1e48c5cb186ee65114c9ed4bbac40091a"
+      "size": 50740505,
+      "sha256": "4af2a56c9ae7d5317e51c0558c8d958b7eeacdb1172916c8a03a23009769c681"
     },
     "osx-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.7/GlitchMC-1.5.7-osx-x64.zip",
-      "filename": "GlitchMC-1.5.7-osx-x64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.8/GlitchMC-1.5.8-osx-x64.zip",
+      "filename": "GlitchMC-1.5.8-osx-x64.zip",
       "arch": "x64",
-      "size": 52984636,
-      "sha256": "acb766a8df28f79d0c857f53bb2de4e94f9bd4c886c872e9f79bef62cb6fd569"
+      "size": 52985516,
+      "sha256": "2dcb0c39c42e4f225b2b15aa30cbe17f5766118869fef45c80cdc7ab4553c728"
     },
     "win-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.7/GlitchMC-1.5.7-win-x64-setup.exe",
-      "filename": "GlitchMC-1.5.7-win-x64-setup.exe",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.8/GlitchMC-1.5.8-win-x64-setup.exe",
+      "filename": "GlitchMC-1.5.8-win-x64-setup.exe",
       "arch": "x64",
-      "size": 38995187,
-      "sha256": "7db25a3d5673d6ca59318cf174bc072dec8e438fd56b9a16f8ad339e6ca77fde"
+      "size": 39000036,
+      "sha256": "45a4fb28e5b8d3bae481480b1116ab2826cbe12364e70723674ce6c63dba9286"
     }
   },
-  "changelog": "GlitchMC 1.5.7 \u2014 the launcher now checks your mods before launch and, if anything is incompatible, offers to fix it all automatically: it swaps each mod for the right version for your instance (or disables what can't be fixed) so you just press play. Proceed, cancel, or let us fix it \u2014 your call."
+  "changelog": "GlitchMC 1.5.8 \u2014 you can now copy the game console: select any part of the log, or hit Copy all to grab the whole thing for a bug report."
 }
