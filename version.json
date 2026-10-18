@@ -1,39 +1,39 @@
 {
   "schemaVersion": 2,
-  "version": "1.5.9",
-  "releaseDate": "2026-10-09",
+  "version": "1.5.10",
+  "releaseDate": "2026-10-18",
   "mandatory": false,
   "minimumSupportedVersion": "0.9.0",
-  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.5.9",
+  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.5.10",
   "platforms": {
     "linux-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.9/GlitchMC-1.5.9-linux-x64.tar.gz",
-      "filename": "GlitchMC-1.5.9-linux-x64.tar.gz",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.10/GlitchMC-1.5.10-linux-x64.tar.gz",
+      "filename": "GlitchMC-1.5.10-linux-x64.tar.gz",
       "arch": "x64",
-      "size": 49542369,
-      "sha256": "fcab5c08694126612e8d5e95be16ad625d43f50f372648051b45971ef1f013c1"
+      "size": 49570841,
+      "sha256": "b5c6f62a36ded3189131c8bec15d4a0605b8c0319cc5b120ffe205e737f88f49"
     },
     "osx-arm64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.9/GlitchMC-1.5.9-osx-arm64.zip",
-      "filename": "GlitchMC-1.5.9-osx-arm64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.10/GlitchMC-1.5.10-osx-arm64.zip",
+      "filename": "GlitchMC-1.5.10-osx-arm64.zip",
       "arch": "arm64",
-      "size": 50740463,
-      "sha256": "75a161eb64458d0ed1e41565ee4224bfac71fbc37c5dcb9783e5482d672d41bd"
+      "size": 50753479,
+      "sha256": "86f7f87a34d44ab2c737128dbe0c27853937cc9127f501a22f2b05dad044e2bf"
     },
     "osx-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.9/GlitchMC-1.5.9-osx-x64.zip",
-      "filename": "GlitchMC-1.5.9-osx-x64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.10/GlitchMC-1.5.10-osx-x64.zip",
+      "filename": "GlitchMC-1.5.10-osx-x64.zip",
       "arch": "x64",
-      "size": 52985471,
-      "sha256": "94b74a945e3dba88ece372ee5789d29673961126bdcdf5cfd5abdcf2af1bbba3"
+      "size": 53001727,
+      "sha256": "f5d01ac54601f2a6004d09546ff6c96be1379ffada581946390284bed8cbe1d7"
     },
     "win-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.9/GlitchMC-1.5.9-win-x64-setup.exe",
-      "filename": "GlitchMC-1.5.9-win-x64-setup.exe",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.5.10/GlitchMC-1.5.10-win-x64-setup.exe",
+      "filename": "GlitchMC-1.5.10-win-x64-setup.exe",
       "arch": "x64",
-      "size": 38999214,
-      "sha256": "bd551ed28b2aab840bbf04fa85a015857a6eead6be9a05bce63c2a7d1293b471"
+      "size": 39010822,
+      "sha256": "175578af403bc87ba05d147dbbe5843ef8e69566756791c7002288368296c01b"
     }
   },
-  "changelog": "GlitchMC 1.5.9 \u2014 fixes a crash that stopped Minecraft 26.x instances (including vanilla) from launching: the custom-skin system was crashing the game the moment a player skin rendered. Skins now load correctly."
+  "changelog": "GlitchMC 1.5.10 \u2014 much faster launch, no more lag while playing or when you quit Minecraft, the GlitchMC server is now pre-added to every instance's in-game list (and actually joinable), and pressing Play on GlitchMC sets up a simple 26.2 instance."
 }
