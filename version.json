@@ -1,39 +1,39 @@
 {
   "schemaVersion": 2,
-  "version": "1.6.0",
-  "releaseDate": "2026-10-23",
+  "version": "1.6.1",
+  "releaseDate": "2026-10-31",
   "mandatory": false,
   "minimumSupportedVersion": "0.9.0",
-  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.6.0",
+  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.6.1",
   "platforms": {
     "linux-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.0/GlitchMC-1.6.0-linux-x64.tar.gz",
-      "filename": "GlitchMC-1.6.0-linux-x64.tar.gz",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.1/GlitchMC-1.6.1-linux-x64.tar.gz",
+      "filename": "GlitchMC-1.6.1-linux-x64.tar.gz",
       "arch": "x64",
-      "size": 58667062,
-      "sha256": "85c1087992c9682293e09d93ea6c08d917effd3341bf8ec98557ae9d74eec40a"
+      "size": 58729853,
+      "sha256": "2887e9cdd511fddfb61780f4df12d61ed2c6e5ab5a5f18354013e22ffcec38bb"
     },
     "osx-arm64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.0/GlitchMC-1.6.0-osx-arm64.zip",
-      "filename": "GlitchMC-1.6.0-osx-arm64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.1/GlitchMC-1.6.1-osx-arm64.zip",
+      "filename": "GlitchMC-1.6.1-osx-arm64.zip",
       "arch": "arm64",
-      "size": 58725135,
-      "sha256": "c41caf85ecca86edf9b739d49e8ff62d76bb060bddb7d93c4de748f04fcf05b5"
+      "size": 58732919,
+      "sha256": "0677c710c9a0b3523532ad8695abdccfb4a85d4bae51f74634ccb4e8fa9a7de0"
     },
     "osx-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.0/GlitchMC-1.6.0-osx-x64.zip",
-      "filename": "GlitchMC-1.6.0-osx-x64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.1/GlitchMC-1.6.1-osx-x64.zip",
+      "filename": "GlitchMC-1.6.1-osx-x64.zip",
       "arch": "x64",
-      "size": 61907335,
-      "sha256": "792f2ea6bf4a3ea1ab71eb12d76c57074ad152839ac4e2fc8f6198bd4ebf7a7c"
+      "size": 61915090,
+      "sha256": "66ff0cf706658833964116d1d4a56644559026eccc4778ee2204304cb3288eec"
     },
     "win-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.0/GlitchMC-1.6.0-win-x64-setup.exe",
-      "filename": "GlitchMC-1.6.0-win-x64-setup.exe",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.1/GlitchMC-1.6.1-win-x64-setup.exe",
+      "filename": "GlitchMC-1.6.1-win-x64-setup.exe",
       "arch": "x64",
-      "size": 45974555,
-      "sha256": "7cf619a01557817edee725cef33a55ce8ea823d566261cc7f4f5f5a8f5adee55"
+      "size": 45960909,
+      "sha256": "dc1795c854b573e796fc5ccc977c309bb0ec560d075785ba0751da0eb9fc9c6d"
     }
   },
-  "changelog": "Faster startup and launches, smoother UI, live launch progress instead of a frozen PREPARING, cancel button and clear errors. Change where the launcher stores its files (Settings \u2192 Resource management \u2192 App directory). NPCs, bots and other players show their real skins on modded instances."
+  "changelog": "Online Microsoft login now works. Fixed a sign-in crash, skins not showing, the Discord/Settings overlap, and the wardrobe preview. Smoother UI throughout and a cleaner Accounts page."
 }
