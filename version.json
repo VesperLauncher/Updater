@@ -1,39 +1,39 @@
 {
   "schemaVersion": 2,
-  "version": "1.6.1",
-  "releaseDate": "2026-10-31",
+  "version": "1.6.2",
+  "releaseDate": "2026-11-06",
   "mandatory": false,
   "minimumSupportedVersion": "0.9.0",
-  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.6.1",
+  "releaseNotesUrl": "https://github.com/VesperLauncher/Updater/releases/tag/v1.6.2",
   "platforms": {
     "linux-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.1/GlitchMC-1.6.1-linux-x64.tar.gz",
-      "filename": "GlitchMC-1.6.1-linux-x64.tar.gz",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.2/GlitchMC-1.6.2-linux-x64.tar.gz",
+      "filename": "GlitchMC-1.6.2-linux-x64.tar.gz",
       "arch": "x64",
-      "size": 58729853,
-      "sha256": "2887e9cdd511fddfb61780f4df12d61ed2c6e5ab5a5f18354013e22ffcec38bb"
+      "size": 58753922,
+      "sha256": "0c51587ad15542031ea9a8a97ef02c09a8ab25ae5cd72d8dc16724cc70fa9e10"
     },
     "osx-arm64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.1/GlitchMC-1.6.1-osx-arm64.zip",
-      "filename": "GlitchMC-1.6.1-osx-arm64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.2/GlitchMC-1.6.2-osx-arm64.zip",
+      "filename": "GlitchMC-1.6.2-osx-arm64.zip",
       "arch": "arm64",
-      "size": 58732919,
-      "sha256": "0677c710c9a0b3523532ad8695abdccfb4a85d4bae51f74634ccb4e8fa9a7de0"
+      "size": 58755302,
+      "sha256": "cd198b2911920785c407488e77e8b9215949018523698ebfbd786f3e47d2520b"
     },
     "osx-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.1/GlitchMC-1.6.1-osx-x64.zip",
-      "filename": "GlitchMC-1.6.1-osx-x64.zip",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.2/GlitchMC-1.6.2-osx-x64.zip",
+      "filename": "GlitchMC-1.6.2-osx-x64.zip",
       "arch": "x64",
-      "size": 61915090,
-      "sha256": "66ff0cf706658833964116d1d4a56644559026eccc4778ee2204304cb3288eec"
+      "size": 61937399,
+      "sha256": "06056c6f04a7e2c14c176c96cd86367bd7a66e364b12dddf7e59f0d9c73af1ae"
     },
     "win-x64": {
-      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.1/GlitchMC-1.6.1-win-x64-setup.exe",
-      "filename": "GlitchMC-1.6.1-win-x64-setup.exe",
+      "url": "https://github.com/VesperLauncher/Updater/releases/download/v1.6.2/GlitchMC-1.6.2-win-x64-setup.exe",
+      "filename": "GlitchMC-1.6.2-win-x64-setup.exe",
       "arch": "x64",
-      "size": 45960909,
-      "sha256": "dc1795c854b573e796fc5ccc977c309bb0ec560d075785ba0751da0eb9fc9c6d"
+      "size": 45985586,
+      "sha256": "93088abcf6d8d7ae757e831175f04913dbd35eab96f8939b5e4e571138018b7a"
     }
   },
-  "changelog": "Online Microsoft login now works. Fixed a sign-in crash, skins not showing, the Discord/Settings overlap, and the wardrobe preview. Smoother UI throughout and a cleaner Accounts page."
+  "changelog": "Windows: no more terminal window, Terms shown in the installer, desktop shortcut by default, branded installer. Website recommends the right download for your OS (incl. Mac Intel vs Apple Silicon)."
 }
